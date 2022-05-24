@@ -5,3 +5,7 @@ body{
 .titulo{
     color: brown;
 }
+
+.resaltado{
+    background-color: cornsilk;
+}
